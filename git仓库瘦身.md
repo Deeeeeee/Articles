@@ -1,10 +1,4 @@
----
-layout: post
-title: ".git文件清理"
-description: ""
-tag: "git"
-date:
----
+# git仓库瘦身
 
 ### 问题
 
